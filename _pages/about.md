@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bienvenue sur blog de NTE"
+title: "Bienvenue sur mon blog"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-
-Rappel du jour :
 ======
 
 
