@@ -9,30 +9,8 @@ redirect_from:
 
 
 
-قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ 
+Rappel du jour :
 ======
 
 
-Getting started
-======
-
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
-**Markdown generator**
-
-
-
-How to edit your site's GitHub repository
-------
-
-
-For more info
-------
 
