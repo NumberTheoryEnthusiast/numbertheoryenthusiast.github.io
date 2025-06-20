@@ -27,14 +27,14 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Passionné par les mathématiques, je m'intéresse tout particulièrement à la théorie algébrique des nombres, et ce au travers de la théorie d'Iwasawa et de la théorie de Hodge p-adique."
   location         : "Bordeaux"
-  employer         : "Institut de Mathématiques de Bordeaux"
+  employer         : "IMB"
   uri              : # URL
   email            : "numbertheoryenthusiast@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
