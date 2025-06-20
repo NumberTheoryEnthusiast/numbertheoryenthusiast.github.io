@@ -26,10 +26,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Passionné par les mathématiques, je m'intéresse tout particulièrement à la théorie algébrique des nombres, et ce au travers de la théorie d'Iwasawa et de la théorie de Hodge p-adique."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Bordeaux"
+  employer         : "Institut de Mathématiques de Bordeaux"
   uri              : # URL
-  email            : "test" 
+  email            : "numbertheoryenthusiast@gmail.com" 
 
   # Academic websites
   academia         : # URL
