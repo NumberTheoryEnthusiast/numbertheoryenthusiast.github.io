@@ -23,9 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "torephoto.JPG"
-  name             : "Ma présentation :"
+  name             : "Vie perso :"
   pronouns         : # example: "she/her"  
-  bio              : "Âgé de 24 ans, je suis un jeune étudiant qui vient de terminer son Master 2 Recherche (mathématiques fondamentales) dans les domaines suivants : Algèbre, Géométrie et Théorie des Nombres. Passionné par les mathématiques, je m'intéresse tout particulièrement à la théorie algébrique des nombres, et ce au travers de la théorie d'Iwasawa et de la théorie de Hodge p-adique."
+  bio              : "
+			Âge : 24 ans
+			
+			Situation : Marié
+
+			Profession : Étudiant"
   location         : "Bordeaux"
   employer         : "IMB"
   uri              : # URL
