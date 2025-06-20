@@ -25,11 +25,7 @@ author:
   avatar           : "torephoto.JPG"
   name             : "Vie perso :"
   pronouns         : # example: "she/her"  
-  bio              : "Âge : 24 ans  
-
-Situation : Marié  
-
-Profession : Étudiant"
+  bio              : "24 ans et marié."
   location         : "Bordeaux"
   employer         : "IMB"
   uri              : # URL
