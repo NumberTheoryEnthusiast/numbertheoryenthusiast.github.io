@@ -22,4 +22,4 @@ Cohomologie galoisienne/Théorie du corps de classes
 Cohomologies p-adiques, Représentations galoisiennes p-adiques, Formes modulaires p-adiques  
 Formes automorphes/Programme de Langlands  
 Théorie d’Arakelov, Théorie de l’intersection, K-théorie  
-Mathématiques condensées...
+Mathématiques condensées
