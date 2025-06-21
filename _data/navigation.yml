@@ -11,20 +11,22 @@ main:
   - title: "Mes écrits"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Ressources"
+    url: /portfolio/  
 
   - title: "Cours particuliers"
-    url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
+    url: /teaching/  
+	
+  - title: "CV"
+    url: /cv/
+
+  #- title: "Talks"
+  #  url: /talks/  
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  
     
   # - title: "CV"
   #   url: /cv-json/
