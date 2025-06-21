@@ -10,9 +10,6 @@
 locale                   : "fr"
 site_theme               : "default"
 title                    : "Blog de NTE"
-yaml locale              : fr 
-lang                     : fr 
-date_format              : "%-d %B %Y"
 title_separator          : "-"
 name                     : &name "NTE"
 description              : &description "personal description"
