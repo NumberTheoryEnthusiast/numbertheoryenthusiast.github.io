@@ -12,4 +12,8 @@ Présentation
 ======
 Passionné par les mathématiques, je m'intéresse tout particulièrement à la théorie algébrique des nombres, et ce au travers de la théorie d'Iwasawa et de la théorie de Hodge p-adique.  
 
-Je viens de terminer mon Master 2 Recherche (mathématiques fondamentales) centré autour des domaines suivants : Algèbre, Géométrie et Théorie des Nombres. 
+Je viens de terminer mon Master 2 Recherche (mathématiques fondamentales) centré autour des domaines suivants : Algèbre, Géométrie et Théorie des Nombres. Mon mémoire de Master 2 portait sur la théorie d'Iwasawa des courbes elliptiques et les travaux de Kolyvagin sur les courbes elliptiques modulaires.
+
+Centres d'intérêts mathématiques
+======
+Théorie d’Iwasawa (sur les courbes elliptiques, fonctions L p-adiques, sur les corps de nombres), Théorie de Hodge p-adique, Courbes elliptiques, Cohomologie galoisienne/Théorie du corps de classes, Cohomologies p-adiques, Représentations galoisiennes p-adiques, Formes modulaires p-adiques/Formes modulaires, Formes automorphes/Programme de Langlands, Théorie d’Arakelov, Théorie de l’intersection, K-théorie, Mathématiques condensées...
