@@ -10,4 +10,6 @@ redirect_from:
 
 Présentation
 ======
-Je viens de terminer mon Master 2 Recherche (mathématiques fondamentales) centré autour des domaines suivants : Algèbre, Géométrie et Théorie des Nombres. Passionné par les mathématiques, je m'intéresse tout particulièrement à la théorie algébrique des nombres, et ce au travers de la théorie d'Iwasawa et de la théorie de Hodge p-adique. 
+Passionné par les mathématiques, je m'intéresse tout particulièrement à la théorie algébrique des nombres, et ce au travers de la théorie d'Iwasawa et de la théorie de Hodge p-adique.  
+
+Je viens de terminer mon Master 2 Recherche (mathématiques fondamentales) centré autour des domaines suivants : Algèbre, Géométrie et Théorie des Nombres. 
