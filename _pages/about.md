@@ -16,10 +16,10 @@ Je viens de terminer mon Master 2 Recherche (mathématiques fondamentales) centr
 
 Centres d'intérêts mathématiques
 ======
-Théorie d’Iwasawa : sur les courbes elliptiques, des fonctions L p-adiques, sur les corps de nombres  
-Théorie de Hodge p-adique  
-Cohomologie galoisienne/Théorie du corps de classes  
-Cohomologies p-adiques, Représentations galoisiennes p-adiques, Formes modulaires p-adiques  
-Formes automorphes/Programme de Langlands  
-Théorie d’Arakelov, Théorie de l’intersection, K-théorie  
-Mathématiques condensées...
+- Théorie d’Iwasawa : sur les courbes elliptiques, des fonctions L p-adiques, sur les corps de nombres  
+- Théorie de Hodge p-adique  
+- Cohomologie galoisienne/Théorie du corps de classes  
+- Cohomologies p-adiques, Représentations galoisiennes p-adiques, Formes modulaires p-adiques  
+- Formes automorphes/Programme de Langlands  
+- Théorie d’Arakelov, Théorie de l’intersection, K-théorie  
+- Mathématiques condensées...
