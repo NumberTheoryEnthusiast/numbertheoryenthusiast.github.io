@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "Mes écrits"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
