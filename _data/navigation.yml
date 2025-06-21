@@ -9,7 +9,7 @@
 
 main:
   - title: "Mes écrits"
-    url: /publications/
+    url: /year-archive/
 
   - title: "Ressources"
     url: /portfolio/  
@@ -24,7 +24,7 @@ main:
   #  url: /talks/  
         
   #- title: "Blog Posts"
-  #  url: /year-archive/
+  #  url: /publications/
     
   
     
