@@ -15,8 +15,8 @@ main:
     url: /portfolio/  
 
   - title: "Cours particuliers"
-    url: /teaching/  
-	
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
 
