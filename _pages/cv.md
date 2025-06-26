@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formation scolaire
 ======
-* Thèse de Doctorat en Théorie d'Iwasawa des courbes elliptiques et systèmes d'Euler, 2025-2028/2026-2029 (en recherche d'un co-encadrant)
-* M2 AGTN, Institut de Mathématiques de Bordeaux, 2024-2025
+* Thèse de Doctorat en Théorie d'Iwasawa des courbes elliptiques et Systèmes d'Euler, 2025-2028 ou 2026-2029 (en attente)
+* M2 AGTN (Algèbre, Géométrie, Théorie des Nombres), Institut de Mathématiques de Bordeaux, 2024-2025
 * M1 Mathématiques générales/fondamentales, Lyon 1 & ENS Lyon, 2023-2024
-* L3 M1 Mathématiques générales, Lyon 1, 2022-2023
-* Prépa MPSI/MP, 2020-2022
+* L3 Mathématiques générales, Lyon 1, 2022-2023
+* CPGE MPSI/MP, 2020-2022
 
 Work experience
 ======
