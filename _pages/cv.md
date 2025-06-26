@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Thèse de Doctorat en Théorie d'Iwasawa des courbes elliptiques et systèmes d'Euler, 2025-2028/2026-2029 (en recherche d'un co-encadrant)
+* M2 AGTN, Institut de Mathématiques de Bordeaux, 2024-2025
+* M1 Mathématiques générales/fondamentales, Lyon 1 & ENS Lyon, 2023-2024
+* L3 M1 Mathématiques générales, Lyon 1, 2022-2023
+* Prépa MPSI/MP, 2020-2022
 
 Work experience
 ======
