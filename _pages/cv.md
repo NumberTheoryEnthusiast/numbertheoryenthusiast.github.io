@@ -45,6 +45,6 @@ Séminaires, Conférences, Masterclass...
 Compétences 
 ======
 * LaTeX
-* SageMaths
+* SageMath
 * Python
 * GitHub (ex. création d'un site hébergé sur GitHub...)
