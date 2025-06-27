@@ -28,7 +28,7 @@ Détails de la formation scolaire
 
 * M1 Mathématiques générales/fondamentales, Lyon 1 & ENS Lyon, 2023-2024
   * Admis en M2 Recherche au : M2 AGTN de Bordeaux, M2 Théorie des Nombres de l'ENS Lyon, M2 Mathématiques fondamentales de Sorbonne université
-  * Cours suivis : Analyse fonctionnelle 1 & 2, Anneaux/Corps/Représentations, Algèbre linéaire avancée,, Géométrie différentielle, Géométrie/Topologie différentielle avancée, Topologie algébrique, Théorie analytique des nombres, Théorie algébrique des nombres, Théorie de Galois, Combinatoire algébrique, Théorie de Morse/Géométrie riemanienne, Géométrie algébrique, Surfaces de Riemann
+  * Cours suivis : Analyse fonctionnelle 1 & 2, Anneaux/Corps/Représentations, Algèbre linéaire avancée, Géométrie différentielle, Géométrie/Topologie différentielle avancée, Topologie algébrique, Théorie analytique des nombres, Théorie algébrique des nombres, Théorie de Galois, Combinatoire algébrique, Théorie de Morse/Géométrie riemanienne, Surfaces de Riemann, Géométrie algébrique
   * Mémoire de M1 : Arithmétique des courbes elliptiques, Théorie du corps de classes, Constructibilité à la règle et au compas
 
 * L3 Mathématiques générales, Lyon 1, 2022-2023
