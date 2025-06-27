@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV académique"
+title: "Curriculum Vitæ"
 permalink: /cv/
 author_profile: true
 redirect_from:
