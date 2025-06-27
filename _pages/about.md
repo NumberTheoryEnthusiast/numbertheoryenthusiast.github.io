@@ -12,7 +12,7 @@ Présentation
 ======
 Passionné par les mathématiques, je m'intéresse tout particulièrement à la théorie algébrique des nombres et à la géométrie algébrique, et ce au travers de la théorie d'Iwasawa et de la théorie de Hodge p-adique.  
 
-Je viens de terminer mon Master 2 Recherche centré autour des domaines suivants : Algèbre, Géométrie et Théorie des Nombres. Mon mémoire de Master 2 portait sur la théorie d'Iwasawa des courbes elliptiques et les travaux de Kolyvagin sur les courbes elliptiques modulaires (en particulier les conséquences sur la conjecture BSD).
+Je viens de terminer mon Master 2 Recherche centré autour des domaines suivants : Algèbre, Géométrie et Théorie des Nombres. Mon mémoire de Master 2 portait sur la théorie d'Iwasawa des courbes elliptiques et les travaux de Kolyvagin sur les courbes elliptiques modulaires. Au cours de ce travail, je me suis également intéressé aux conséquences des travaux de Kolyvagin (+ Gross-Zagier) sur la conjecture BSD.
 
 Centres d'intérêts mathématiques
 ======
