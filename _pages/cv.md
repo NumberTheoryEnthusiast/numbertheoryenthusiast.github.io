@@ -34,6 +34,9 @@ Détails de la formation scolaire
 
 * L3 Mathématiques générales, Lyon 1, 2022-2023
   * Mémoire de L3 : Lien entre revêtements ramifiés (surfaces de Riemann) et théorie de Galois
+ 
+*CPGE MPSI/MP, 2020-2022 
+  * Abandon du concours X-ENS à la suite d'une récidive de mes problèmes de santé...
 
 
 Séminaires, Conférences, Masterclass...
