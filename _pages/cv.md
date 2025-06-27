@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV académique"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,6 +17,7 @@ Formation scolaire
 * L3 Mathématiques générales, Lyon 1, 2022-2023
 * CPGE MPSI/MP, 2020-2022
 * Déscolarisé (problèmes de santé), 2019-2020 
+* BAC S.SI, spécialité mathématiques, 2019
 
 Détails de la formation scolaire
 ======
@@ -41,9 +42,7 @@ Séminaires, Conférences, Masterclass...
 * Immersion d'une semaine au CIRM dans le cadre de mon mémoire de recherche de L3, Marseille, Février 2023
 
 
-
-  
-Compétences
+Compétences 
 ======
 * LaTeX
 * SageMaths
