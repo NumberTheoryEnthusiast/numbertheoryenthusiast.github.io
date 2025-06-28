@@ -1,5 +1,5 @@
 ---
-title: "test"
-excerpt: "test"
+title: ""
+excerpt: ""
 collection: portfolio
 ---
