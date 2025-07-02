@@ -39,7 +39,7 @@ Détails de la formation scolaire
   * Abandon de la semaine de concours X-ENS à la suite d'une récidive de mes problèmes de santé...
 
 
-Séminaires, Conférences, Masterclass...
+Séminaires, Conférences, Masterclass... (à compléter)
 ======
 * Séminaire (hebdomadaire) de Théorie des Nombres à l'IMB, Bordeaux, 2024-2025
 * Masterclass Sophie Kowalevski, Angers, Juin 2024
