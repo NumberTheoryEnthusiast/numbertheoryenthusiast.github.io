@@ -30,7 +30,7 @@ Détails de la formation scolaire
   * Admis en M2 Recherche au : M2 AGTN de Bordeaux, M2 Théorie des Nombres de l'ENS Lyon, M2 Mathématiques fondamentales de Sorbonne université
   * Cours suivis : Analyse fonctionnelle 1 & 2, Anneaux/Corps/Représentations, Algèbre linéaire avancée, Géométrie différentielle, Géométrie/Topologie différentielle avancée, Topologie algébrique, Théorie analytique des nombres, Théorie algébrique des nombres, Théorie de Galois, Combinatoire algébrique, Théorie de Morse/Géométrie riemanienne, Surfaces de Riemann, Géométrie algébrique, Histoire des Maths
   * Mémoire de M1 : Arithmétique des courbes elliptiques, Théorie du corps de classes, Constructibilité à la règle et au compas
-  * Mémoire d'Histoire des Maths : Théorème de Fermat et preuve de Dirichlet du cas n = 5
+  * Mémoire d'Histoire des Maths : Théorème de Fermat, de Dirichlet à Wiles, et preuve de Dirichlet du cas n = 5
 
 * L3 Mathématiques générales, Lyon 1, 2022-2023
   * Mémoire de L3 : Lien entre revêtements ramifiés (surfaces de Riemann) et théorie de Galois
@@ -46,9 +46,17 @@ Séminaires, Conférences, Masterclass... (à compléter)
 * Immersion d'une semaine au CIRM dans le cadre de mon mémoire de recherche de L3, Marseille, Février 2023
 
 
-Compétences 
+Compétences informatiques
 ======
 * LaTeX
 * SageMath
 * Python
 * GitHub (ex. création d'un site hébergé sur GitHub...)
+
+
+Langues
+======
+* Français 
+* Anglais (niveau B2)
+* Espagnol (niveau B1)
+* Arabe littéraire (niveau A1)
