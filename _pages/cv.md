@@ -23,7 +23,7 @@ Expérience & Formation scolaire
 
 Détails de la formation scolaire
 ======
-*  Auditeur libre aux cours spécialisés du M2 AGTN, Institut de Mathématiques de Bordeaux, 2025-2026  
+*  Auditeur libre aux cours spécialisés du M2 AGTN, Institut de Mathématiques de Bordeaux, 2025-2026
   * Cours suivis : Équidistribution et fonctions L, Théorie du corps de classes
   
 * M2 AGTN (Algèbre, Géométrie, Théorie des Nombres), Institut de Mathématiques de Bordeaux, 2024-2025
