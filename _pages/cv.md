@@ -46,7 +46,7 @@ Détails de la formation scolaire
 
 Séminaires, Conférences, Masterclass... (à compléter)
 ======
-* Séminaire (hebdomadaire) de Théorie des Nombres à l'IMB, Bordeaux, 2024-2026
+* Séminaire (hebdomadaire) de Théorie des Nombres de Bordeaux, Institut de Mathématiques de Bordeaux, 2024-2026
 * Masterclass Sophie Kowalevski, Angers, Juin 2024
 * Immersion d'une semaine au CIRM dans le cadre de mon mémoire de recherche de L3, Marseille, Février 2023
 
