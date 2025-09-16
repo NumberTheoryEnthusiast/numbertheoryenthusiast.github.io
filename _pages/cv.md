@@ -23,9 +23,9 @@ Expérience & Formation scolaire
 
 Détails de la formation scolaire
 ======
-*  Auditeur libre aux cours spécialisés du M2 AGTN, Institut de Mathématiques de Bordeaux, 2025-2026
-  * Cours suivis : Équidistribution et fonctions L, Théorie du corps de classes
-  
+* Auditeur libre aux cours spécialisés du M2 AGTN, Institut de Mathématiques de Bordeaux, 2025-2026
+  * Cours suivis : Équidistribution et fonctions L, Théorie du corps de classes 
+    
 * M2 AGTN (Algèbre, Géométrie, Théorie des Nombres), Institut de Mathématiques de Bordeaux, 2024-2025
   * Cours suivis : Théorie des nombres, Géométrie algébrique, Théorie algorithmique des nombres, Algèbre (co-)homologique, Théorie de Hodge p-adique
   * Mémoire de M2 : Théorie d’Iwasawa des courbes elliptiques et travaux de Kolyvagin sur les courbes elliptiques modulaires
