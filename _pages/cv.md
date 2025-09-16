@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Formation scolaire
+Expérience & Formation scolaire
 ======
 * (en attente) Thèse de Doctorat, 2026-2029 
+* Colleur de mathématiques en classe prépa, lycée Montaigne (Bordeaux), 2025-2026
+* Auditeur libre aux cours spécialisés du M2 AGTN, Institut de Mathématiques de Bordeaux, 2025-2026 
 * M2 AGTN (Algèbre, Géométrie, Théorie des Nombres), Institut de Mathématiques de Bordeaux, 2024-2025
 * M1 Mathématiques générales/fondamentales, Lyon 1 & ENS Lyon, 2023-2024
 * L3 Mathématiques générales, Lyon 1, 2022-2023
@@ -21,7 +23,7 @@ Formation scolaire
 
 Détails de la formation scolaire
 ======
-* Auditeur libre aux cours suivants (M2 AGTN) : 
+* Auditeur libre aux cours suivants (M2 AGTN), 2025-2026 
   * Cours suivis : Équidistribution et fonctions L, Théorie du corps de classes
   
 * M2 AGTN (Algèbre, Géométrie, Théorie des Nombres), Institut de Mathématiques de Bordeaux, 2024-2025
