@@ -11,7 +11,7 @@ redirect_from:
 
 Formation scolaire
 ======
-* (en attente) Thèse de Doctorat sur la Théorie d'Iwasawa des courbes elliptiques et les systèmes d'Euler, 2026-2029 
+* (en attente) Thèse de Doctorat, 2026-2029 
 * M2 AGTN (Algèbre, Géométrie, Théorie des Nombres), Institut de Mathématiques de Bordeaux, 2024-2025
 * M1 Mathématiques générales/fondamentales, Lyon 1 & ENS Lyon, 2023-2024
 * L3 Mathématiques générales, Lyon 1, 2022-2023
@@ -21,6 +21,9 @@ Formation scolaire
 
 Détails de la formation scolaire
 ======
+* Auditeur libre aux cours suivants (M2 AGTN) : 
+  * Cours suivis : Équidistribution et fonctions L, Théorie du corps de classes
+  
 * M2 AGTN (Algèbre, Géométrie, Théorie des Nombres), Institut de Mathématiques de Bordeaux, 2024-2025
   * Cours suivis : Théorie des nombres, Géométrie algébrique, Théorie algorithmique des nombres, Algèbre (co-)homologique, Théorie de Hodge p-adique
   * Mémoire de M2 : Théorie d’Iwasawa des courbes elliptiques et travaux de Kolyvagin sur les courbes elliptiques modulaires
