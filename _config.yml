@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "fr-FR"
+date_format              : "%d/%m/%Y"
 site_theme               : "default"
 title                    : "Blog de NTE"
 title_separator          : "-"
@@ -24,8 +25,7 @@ author:
   avatar           : "torephoto.JPG"
   name             : "Vie perso :"
   pronouns         : # example: "she/her"  
-  bio              : "Je suis né et j'ai grandi à Cannes (06400).  
-Je suis âgé de 24 ans."
+  bio              : "Je m'appelle Samy Mkhinini, je suis âgé de 24 ans. Je suis originaire de Cannes (06400), ville où je suis né et où j'ai grandi jusqu'à mon obtention du BAC."
   location         : "Bordeaux, France"
   employer         : "IMB"
   uri              : # URL
