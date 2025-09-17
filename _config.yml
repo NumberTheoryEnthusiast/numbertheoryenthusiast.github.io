@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr"
+locale                   : "fr-FR"
 site_theme               : "default"
 title                    : "Blog de NTE"
 title_separator          : "-"
